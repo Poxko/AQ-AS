@@ -1,0 +1,26 @@
+========================================
+       REPORT 1 - GENERALE
+========================================
+
+Totale richieste: 5
+
+Richieste per stato:
+  - APERTA: 2
+  - IN_LAVORAZIONE: 0
+  - COMPLETATA: 0
+  - ANNULLATA: 3
+
+Richieste per priorita:
+  - BASSA: 0
+  - MEDIA: 2
+  - ALTA: 3
+
+Costo medio stimato (tutte): 406.00 EUR
+Costo medio finale (completate): 0.00 EUR
+
+Elenco ordinato per costo stimato (crescente):
+  [1] Mario Rossi | Smartphone | Schermo rotto | ALTA | APERTA | stimato: 80.00 | finale: N/D | 15/05/2026
+  [2] Luca Bianchi | Notebook | Non si accende | MEDIA | ANNULLATA | stimato: 150.00 | finale: 130.00 | 10/05/2026
+  [4] Antonio Solare | MacBook | prova | ALTA | ANNULLATA | stimato: 300.00 | finale: N/D | 27/05/2026
+  [5] Gabriele Terranova | Stampante | provaprova | MEDIA | APERTA | stimato: 500.00 | finale: N/D | 22/05/2026
+  [3] Aurora Quarto | MacBook | Fungeva | ALTA | ANNULLATA | stimato: 1000.00 | finale: N/D | 22/05/2026

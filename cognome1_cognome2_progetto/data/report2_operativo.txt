@@ -1,0 +1,23 @@
+========================================
+       REPORT 2 - OPERATIVO
+========================================
+
+>>> Richieste ALTA priorita ancora APERTE:
+  [1] Mario Rossi | Smartphone | Schermo rotto | ALTA | APERTA | stimato: 80.00 | finale: N/D | 15/05/2026
+
+>>> Richieste IN LAVORAZIONE:
+  (nessuna)
+
+>>> Richieste COMPLETATE:
+  (nessuna)
+
+>>> Richieste ANNULLATE:
+  [2] Luca Bianchi | Notebook | Non si accende | MEDIA | ANNULLATA | stimato: 150.00 | finale: 130.00 | 10/05/2026
+  [3] Aurora Quarto | MacBook | Fungeva | ALTA | ANNULLATA | stimato: 1000.00 | finale: N/D | 22/05/2026
+  [4] Antonio Solare | MacBook | prova | ALTA | ANNULLATA | stimato: 300.00 | finale: N/D | 27/05/2026
+
+>>> Riepilogo per tipologia dispositivo:
+  MacBook -> richieste: 2 | costo medio stimato: 650.00 EUR | costo max stimato: 1000.00 EUR
+  Notebook -> richieste: 1 | costo medio stimato: 150.00 EUR | costo max stimato: 150.00 EUR
+  Smartphone -> richieste: 1 | costo medio stimato: 80.00 EUR | costo max stimato: 80.00 EUR
+  Stampante -> richieste: 1 | costo medio stimato: 500.00 EUR | costo max stimato: 500.00 EUR
