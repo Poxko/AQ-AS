@@ -15,9 +15,12 @@
   [2] Luca Bianchi | Notebook | Non si accende | MEDIA | ANNULLATA | stimato: 150.00 | finale: 130.00 | 10/05/2026
   [3] Aurora Quarto | MacBook | Fungeva | ALTA | ANNULLATA | stimato: 1000.00 | finale: N/D | 22/05/2026
   [4] Antonio Solare | MacBook | prova | ALTA | ANNULLATA | stimato: 300.00 | finale: N/D | 27/05/2026
+  [5] Gabriele Terranova | Stampante | provaprova | MEDIA | ANNULLATA | stimato: 500.00 | finale: N/D | 22/05/2026
+  [6] wuudoa | ipgoen | wedw | MEDIA | ANNULLATA | stimato: 340.00 | finale: N/D | 24/05/2026
 
 >>> Riepilogo per tipologia dispositivo:
   MacBook -> richieste: 2 | costo medio stimato: 650.00 EUR | costo max stimato: 1000.00 EUR
   Notebook -> richieste: 1 | costo medio stimato: 150.00 EUR | costo max stimato: 150.00 EUR
   Smartphone -> richieste: 1 | costo medio stimato: 80.00 EUR | costo max stimato: 80.00 EUR
   Stampante -> richieste: 1 | costo medio stimato: 500.00 EUR | costo max stimato: 500.00 EUR
+  ipgoen -> richieste: 1 | costo medio stimato: 340.00 EUR | costo max stimato: 340.00 EUR
